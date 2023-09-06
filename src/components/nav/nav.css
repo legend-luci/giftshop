@@ -1,8 +1,12 @@
 
 #Giftshop{
-    font-size: 25px;
+    font-size: 30px;
     margin-right: 50px;
+    color: 	#FF4500;
 }
 #navtext{
     font-size: 20px;
+}
+li{
+    padding: 0px 5px;
 }

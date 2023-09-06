@@ -1,0 +1,97 @@
+.container-fluld{
+    width: 116rem;
+    height: 60rem;
+    /* background-image: linear-gradient(#00CC99,#6600FF); */
+    background-color: #c5f9d7;
+}
+
+#box1{
+    margin-top: 170px;
+    margin-left: 160px;
+
+}
+
+#small1 {
+    width: 450px;
+    height: 600px;
+    background-color: #6071d7;
+    border-radius: 10px 0px 0px 10px;;
+}
+#small2 {
+    width: 450px;
+    height: 600px;
+    background-color: white;
+}
+
+
+#bk h1{
+    margin-left: 15px;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#bk h2{
+    margin-top: 100px;
+    margin-left: 40px;
+    color: white;
+    font-size: 60px;
+}
+#bk h3{
+    margin-left: 60px;
+    color: black;
+    font-size: 40px;
+}
+
+/*right side box*/
+
+#bk1 h2{
+    color: #5aa9e6;
+    margin-top: 50px;
+    margin-left: 24px;
+}
+#bk1 p{
+    margin-left: 24px;
+}
+
+#inputfile{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+#inputfile input{
+    height: 45px;
+    width: 350px !important;
+    margin-left: 10px;
+}
+#inputfile h6{
+    margin-left: 10px;
+}
+#check {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#check input {
+    width: 16px;
+    height: 16px;
+    
+}
+#check p{
+    display: inline;
+    font-size: 18px;
+    margin-left: 10px;
+    
+}
+#btn1 {
+    width: 350px;
+    margin-top: 20px !important;
+    margin-left: 20px;
+} 
+
+#imge img{
+   /* width: 500px;
+   height: 250px; */
+   position: relative;
+   left: -6%;
+   
+}

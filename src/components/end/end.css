@@ -1,0 +1,49 @@
+#shap1{
+    width:300px;
+    height: 168px;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url('https://th.bing.com/th/id/R.4eb1e547957cf1240772200fee93d156?rik=zR7Bys%2f75bVIlg&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f2962794%2fimages%2fo-MAGGI-NOODLES-facebook.jpg&ehk=JXxKp6yhe3MCQ8h%2b9gYdHTD0k985Qgskhco5R1%2bT5xc%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover
+    /* border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ; */
+   
+}
+
+#shap2{
+    width:300px;
+    height: 170px;
+    /* top-left top-right bottom-right bottom-left */
+    border-radius: 20px 20px 10px 10px;
+    background-image: url('https://i.insider.com/59c9763224884966f6225939?width=1200&format=jpeg');
+    background-size: cover;
+}
+
+#shap3{
+    width:300px;
+    height: 170px;
+    /* top-left top-right bottom-right bottom-left */
+    border-radius: 20px 20px 10px 10px;
+    background-image: url('https://wallpapercave.com/wp/wp3376127.jpg');
+    background-size: cover;
+}
+#shap4{
+    width:300px;
+    height: 170px;
+    /* top-left top-right bottom-right bottom-left */
+    border-radius: 20px 20px 10px 10px;
+    background-image: url('https://wallpapercave.com/wp/wp3495556.jpg');
+    background-size: cover;
+}
+
+#shap1 img{
+    background-position: cover;
+    width: 300px;
+    height: 150px;
+}
+
+#btn{
+   margin-top: 48%;
+   margin-left: -12px;
+}
+#btn button {
+    width: 300px;
+}
